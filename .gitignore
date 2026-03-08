@@ -37,3 +37,9 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# firebase
+favorite-places-app-5ab73-firebase-adminsdk-fbsvc-669d47710c.json
+
+
+google-services.json
